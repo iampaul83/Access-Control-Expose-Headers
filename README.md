@@ -7,6 +7,8 @@ npm install
 npm start
 ```
 
+Open [http://localhost:3001](http://localhost:3001) (Same Origin) and  [http://localhost:3000](http://localhost:3001) (Cross origin) to compare
+
 # Access-Control-Expose-Headers
 
 The Access-Control-Expose-Headers response header indicates which headers can be exposed as part of the response by listing their names.
