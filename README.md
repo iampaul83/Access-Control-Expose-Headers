@@ -7,7 +7,7 @@ npm install
 npm start
 ```
 
-Open [http://localhost:3001](http://localhost:3001) (Same Origin) and  [http://localhost:3000](http://localhost:3001) (Cross origin) to compare
+Open [http://localhost:3000](http://localhost:3000) (Same Origin) and  [http://localhost:3001](http://localhost:3001) (Cross origin) to compare
 
 # Access-Control-Expose-Headers
 
